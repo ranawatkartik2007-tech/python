@@ -5,5 +5,6 @@ Topics Covered :
 - Loops
 - Functions
 - Dictionaries/ Lists / Sets
+- Files I/O
 - Practice sheets
 - Mini Projects
