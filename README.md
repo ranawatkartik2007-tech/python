@@ -6,5 +6,6 @@ Topics Covered :
 - Functions
 - Dictionaries/ Lists / Sets
 - Files I/O
+- Object oriented programming 
 - Practice sheets
 - Mini Projects
